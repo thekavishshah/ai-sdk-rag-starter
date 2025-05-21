@@ -1,0 +1,2 @@
+// Add this inside your "scripts" block:
+"ingest": "tsx scripts/ingest.ts"
